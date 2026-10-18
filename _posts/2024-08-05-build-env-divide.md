@@ -2,7 +2,7 @@
 title: "[Gitlab CI/CD 2] 환경 변수 분리하기"
 author:
 date: 2024-08-05 20:00:00 +0900
-categories: [인턴십, DevOps]
+categories: [Infra & DevOps, DevOps]
 tags: [인턴, gitlab]
 ---
 

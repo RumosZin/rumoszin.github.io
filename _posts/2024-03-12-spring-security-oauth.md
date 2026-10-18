@@ -2,11 +2,7 @@
 title: "[Spring] Spring security, OAuth 2.0으로 구글 로그인 구현하기"
 author:
 date: 2024-03-12 18:00:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Auth]
 tags: [Spring, 개발, OAuth, Spring Security]
 ---
 

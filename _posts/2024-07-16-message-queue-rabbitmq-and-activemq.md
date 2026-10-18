@@ -2,7 +2,7 @@
 title: "[메시지 큐] RabbitMQ, ActiveMQ"
 author:
 date: 2024-07-16 22:30:00 +0900
-categories: [AI 프로필 서비스 / 푸앙이 사진관, Message Queue]
+categories: [Backend, Async & Streaming]
 tags: [CS, 운영체제, 메시지 전달, 메시지 큐, 푸앙이사진관]
 ---
 

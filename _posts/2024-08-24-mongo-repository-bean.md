@@ -2,7 +2,7 @@
 title: "MongoRepository에 @Repository가 없어도 빈 등록이 되는 이유"
 author:
 date: 2024-08-24 00:12:00 +0900
-categories: [도전적으로 목표 뿌시기 / Todo-Challengers, Spring]
+categories: [Backend, Database]
 tags: [Database, NoSQL, MongoDB, Spring]
 ---
 

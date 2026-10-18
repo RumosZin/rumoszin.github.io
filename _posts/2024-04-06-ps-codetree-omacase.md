@@ -2,7 +2,7 @@
 title: "[CodeTree/C++] 코드트리 오마카세"
 author:
 date: 2024-04-06 14:28:00 +0900
-categories: [Problem Solving, 문제 풀이]
+categories: [Computer Science, Problem Solving]
 tags: [Problem Solving, C++, 시뮬레이션]
 ---
 

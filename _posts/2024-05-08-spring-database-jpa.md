@@ -2,11 +2,7 @@
 title: "[Spring/Database] Spring JPA와 Spring Data JPA"
 author:
 date: 2024-05-08 23:30:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Database]
 tags: [Spring, Database, ORM]
 ---
 

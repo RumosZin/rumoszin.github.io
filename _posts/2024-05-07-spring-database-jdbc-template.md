@@ -2,11 +2,7 @@
 title: "[Spring/Database] JDBC와 JDBCTemplate"
 author:
 date: 2024-05-07 22:19:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Database]
 tags: [Spring, Database, ORM]
 ---
 

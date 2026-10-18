@@ -2,7 +2,7 @@
 title: "첨부 파일 크기로 인한 Body Size Limit, File Size Limit 문제 해결하기"
 author:
 date: 2024-08-04 20:00:00 +0900
-categories: [인턴십, Server]
+categories: [Infra & DevOps, Web]
 tags: [인턴, Size limit]
 ---
 

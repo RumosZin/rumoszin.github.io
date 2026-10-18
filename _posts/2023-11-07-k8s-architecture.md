@@ -2,7 +2,7 @@
 title: "[Kubernetes] 쿠버네티스 아키텍처"
 author:
 date: 2023-11-07 11:30:00 +0900
-categories: [Google Developer Student Club, 쿠버네티스 스터디]
+categories: [Infra & DevOps, Infra]
 tags: [Kubernetes]
 ---
 

@@ -2,7 +2,7 @@
 title: "[MariaDB/Drizzle] Web - DrizzleORM - MariaDB를 연결시키자"
 author:
 date: 2024-04-01 20:30:00 +0900
-categories: [인턴십, Database]
+categories: [Backend, Database]
 tags: [Database, MariaDB, 인턴]
 ---
 

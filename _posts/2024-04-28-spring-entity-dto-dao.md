@@ -2,11 +2,7 @@
 title: "[Spring] Entity, DTO, DAO (feat. 관심사의 분리)"
 author:
 date: 2024-04-28 21:28:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Spring]
 tags: [Spring]
 ---
 

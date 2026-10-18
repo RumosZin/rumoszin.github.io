@@ -2,11 +2,7 @@
 title: "[Tips] Spring Boot 프로젝트 빌드하고 실행"
 author:
 date: 2024-01-03 11:30:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Spring]
 tags: [Spring, Tips]
 ---
 

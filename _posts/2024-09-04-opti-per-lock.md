@@ -2,7 +2,7 @@
 title: "두 번의 갱신 분실 문제를 해결하자! (feat. 비관적 락, 낙관적 락)"
 author:
 date: 2024-09-03 20:00:00 +0900
-categories: [AI 프로필 서비스 / 푸앙이 사진관, Lock]
+categories: [Backend, Concurrency & Lock]
 tags: [푸앙이사진관, 락]
 ---
 

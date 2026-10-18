@@ -2,11 +2,7 @@
 title: "[Database] ORM 정의, 등장 배경, 장단점"
 author:
 date: 2024-05-06 20:12:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Database]
 tags: [Database]
 ---
 

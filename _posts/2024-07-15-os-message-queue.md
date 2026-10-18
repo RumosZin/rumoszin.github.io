@@ -2,7 +2,7 @@
 title: "[운영체제] 메시지 전달의 설계 이슈와 RabbitMQ"
 author:
 date: 2024-07-15 22:30:00 +0900
-categories: [AI 프로필 서비스 / 푸앙이 사진관, Message Queue]
+categories: [Computer Science, Operating System]
 tags: [CS, 운영체제, 메시지 전달, 푸앙이사진관]
 ---
 

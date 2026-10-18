@@ -2,7 +2,7 @@
 title: "[Supabase/Docker] Supabase 컨테이너 password 에러 : `.env` 확인하기"
 author:
 date: 2024-03-11 13:30:00 +0900
-categories: [인턴십, Database]
+categories: [Backend, Database]
 tags: [Database, Supabase, Docker, 인턴]
 ---
 

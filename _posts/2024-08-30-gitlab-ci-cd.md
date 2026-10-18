@@ -2,7 +2,7 @@
 title: "[Gitlab CI/CD 3] CD까지 자동화하기"
 author:
 date: 2024-08-30 20:00:00 +0900
-categories: [인턴십, DevOps]
+categories: [Infra & DevOps, DevOps]
 tags: [인턴, gitlab]
 ---
 

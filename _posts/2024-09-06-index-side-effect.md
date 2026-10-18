@@ -2,7 +2,7 @@
 title: "조회 성능을 위해 WHERE / ORDER BY 조건을 다중 칼럼 인덱스로 설정해도 될까?"
 author:
 date: 2024-09-06 16:30:00 +0900
-categories: [AI 프로필 서비스 / 푸앙이 사진관, Index]
+categories: [Backend, Database]
 tags: [푸앙이사진관, 인덱스]
 ---
 

@@ -2,7 +2,7 @@
 title: "Spring boot에서 OIDC 카카오 로그인 구현하기"
 author:
 date: 2024-08-21 21:30:00 +0900
-categories: [도전적으로 목표 뿌시기 / Todo-Challengers, Spring]
+categories: [Backend, Auth]
 tags: [Spring, OIDC]
 ---
 

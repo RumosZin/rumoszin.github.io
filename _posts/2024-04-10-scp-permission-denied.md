@@ -2,7 +2,7 @@
 title: "scp 명령어 실행 시 Permission denied 오류와 해결 방법"
 author:
 date: 2024-04-10 18:30:00 +0900
-categories: [인턴십, Server]
+categories: [Infra & DevOps, Infra]
 tags: [Tips, Server, 인턴]
 ---
 

@@ -2,7 +2,7 @@
 title: "MongoDB를 이용해 Id 필드의 타입 고르기 : Auto Increment vs UUID vs ObjectId"
 author:
 date: 2024-08-25 00:12:00 +0900
-categories: [도전적으로 목표 뿌시기 / Todo-Challengers, Spring]
+categories: [Backend, Database]
 tags: [Database, NoSQL, MongoDB, Spring]
 ---
 

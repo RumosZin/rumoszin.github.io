@@ -2,7 +2,7 @@
 title: "[Kubernetes] 쿠버네티스로 컨테이너 시작하기"
 author:
 date: 2023-10-31 12:30:00 +0900
-categories: [Google Developer Student Club, 쿠버네티스 스터디]
+categories: [Infra & DevOps, Infra]
 tags: [Kubernetes]
 ---
 

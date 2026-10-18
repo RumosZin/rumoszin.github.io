@@ -2,11 +2,7 @@
 title: "[Tips] IntelliJ 오류와 해결 방법.zip"
 author:
 date: 2024-01-02 23:03:00 +0900
-categories:
-  [
-    Google Developer Student Club,
-    Fairy Tale Island / 2024 Google Solution Challenge
-  ]
+categories: [Backend, Spring]
 tags: [Tips, IntelliJ]
 ---
 

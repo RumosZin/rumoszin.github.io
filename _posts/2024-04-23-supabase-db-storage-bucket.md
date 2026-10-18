@@ -2,7 +2,7 @@
 title: "[Supabase] supabase-db 컨테이너에서 storage-bucket 확인하기"
 author:
 date: 2024-04-23 21:00:00 +0900
-categories: [인턴십, Database]
+categories: [Backend, Database]
 tags: [Database, Supabase, 인턴]
 ---
 
