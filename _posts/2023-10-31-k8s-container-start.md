@@ -3,6 +3,7 @@ title: "[Kubernetes] 쿠버네티스로 컨테이너 시작하기"
 author:
 date: 2023-10-31 12:30:00 +0900
 categories: [Infra & DevOps, Infra]
+image: /assets/img/231031-1.png
 tags: [Kubernetes]
 ---
 

@@ -3,6 +3,7 @@ title: "[Database] ORM 정의, 등장 배경, 장단점"
 author:
 date: 2024-05-06 20:12:00 +0900
 categories: [Backend, Database]
+image: /assets/img/240106-1.png
 tags: [Database]
 ---
 

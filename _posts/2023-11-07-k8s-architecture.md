@@ -3,6 +3,7 @@ title: "[Kubernetes] 쿠버네티스 아키텍처"
 author:
 date: 2023-11-07 11:30:00 +0900
 categories: [Infra & DevOps, Infra]
+image: /assets/img/231107-1.png
 tags: [Kubernetes]
 ---
 

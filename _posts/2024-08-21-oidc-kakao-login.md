@@ -3,6 +3,7 @@ title: "Spring boot에서 OIDC 카카오 로그인 구현하기"
 author:
 date: 2024-08-21 21:30:00 +0900
 categories: [Backend, Auth]
+image: /assets/img/240821-1.png
 tags: [Spring, OIDC]
 ---
 

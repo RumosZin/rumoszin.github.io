@@ -3,6 +3,7 @@ title: "두 번의 갱신 분실 문제의 원인을 찾아보자! (feat. 공유
 author:
 date: 2024-09-03 12:30:00 +0900
 categories: [Backend, Concurrency & Lock]
+image: /assets/img/240903-12.png
 tags: [푸앙이사진관, 락]
 ---
 

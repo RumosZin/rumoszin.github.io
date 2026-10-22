@@ -3,7 +3,9 @@ title: "[Tips] Spring Boot 프로젝트 빌드하고 실행"
 author:
 date: 2024-01-03 11:30:00 +0900
 categories: [Backend, Spring]
+image: /assets/img/240103-1.png
 tags: [Spring, Tips]
+published: false
 ---
 
 ### **터미널로 프로젝트 경로 이동**

@@ -3,6 +3,7 @@ title: "[Spring] Spring security, OAuth 2.0으로 구글 로그인 구현하기"
 author:
 date: 2024-03-12 18:00:00 +0900
 categories: [Backend, Auth]
+image: https://github.com/RumosZin/spring-security-oauth/assets/81238093/c7a3f0d6-5152-461d-831a-91b709439597
 tags: [Spring, 개발, OAuth, Spring Security]
 ---
 

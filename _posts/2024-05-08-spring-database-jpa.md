@@ -3,6 +3,7 @@ title: "[Spring/Database] Spring JPA와 Spring Data JPA"
 author:
 date: 2024-05-08 23:30:00 +0900
 categories: [Backend, Database]
+image: /assets/img/240107-2.png
 tags: [Spring, Database, ORM]
 ---
 

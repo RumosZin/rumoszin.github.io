@@ -3,6 +3,7 @@ title: "[Spring/Database] JDBC와 JDBCTemplate"
 author:
 date: 2024-05-07 22:19:00 +0900
 categories: [Backend, Database]
+image: /assets/img/240107-1.png
 tags: [Spring, Database, ORM]
 ---
 

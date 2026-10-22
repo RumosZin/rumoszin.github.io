@@ -3,6 +3,7 @@ title: "[SvelteKit/Docker] SvelteKit application을 docker로 빌드하기"
 author:
 date: 2024-03-20 20:30:00 +0900
 categories: [Infra & DevOps, Infra]
+image: /assets/img/240320-1.png
 tags: [Database, Supabase, Docker, 인턴]
 ---
 

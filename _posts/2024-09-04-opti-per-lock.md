@@ -3,6 +3,7 @@ title: "두 번의 갱신 분실 문제를 해결하자! (feat. 비관적 락, �
 author:
 date: 2024-09-03 20:00:00 +0900
 categories: [Backend, Concurrency & Lock]
+image: /assets/img/240903-6.png
 tags: [푸앙이사진관, 락]
 ---
 

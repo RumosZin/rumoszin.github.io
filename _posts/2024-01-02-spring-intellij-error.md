@@ -3,6 +3,7 @@ title: "[Tips] IntelliJ 오류와 해결 방법.zip"
 author:
 date: 2024-01-02 23:03:00 +0900
 categories: [Backend, Spring]
+image: /assets/img/240422-1.png
 tags: [Tips, IntelliJ]
 ---
 

@@ -3,6 +3,7 @@ title: "조회 성능을 위해 WHERE / ORDER BY 조건을 다중 칼럼 인덱�
 author:
 date: 2024-09-06 16:30:00 +0900
 categories: [Backend, Database]
+image: /assets/img/240906-12.png
 tags: [푸앙이사진관, 인덱스]
 ---
 
